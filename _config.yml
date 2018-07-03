@@ -41,3 +41,8 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  tipitaka_kn_dhp:
+    output: true
+    permalink: /tipitaka/kn/dhammapada/:name

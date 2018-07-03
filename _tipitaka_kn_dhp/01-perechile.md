@@ -1,5 +1,7 @@
-The Pairs
-=========
+---
+collection: dhammapada
+title: Perechile
+---
 
 1.\\
 All states of being are determined by the heart.\\
