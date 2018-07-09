@@ -1,0 +1,22 @@
+{
+  "name": "dhammadha.ro",
+  "version": "1.0.0",
+  "description": "*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhammateca/dhammadha.ro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhammateca/dhammadha.ro/issues"
+  },
+  "homepage": "https://github.com/dhammateca/dhammadha.ro#readme",
+  "dependencies": {
+    "semantic-ui": "^2.3.3"
+  }
+}
