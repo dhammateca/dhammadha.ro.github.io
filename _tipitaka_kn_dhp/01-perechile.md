@@ -1,5 +1,5 @@
 ---
-collection: dhammapada
+layout: default
 title: Perechile
 ---
 

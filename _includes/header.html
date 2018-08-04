@@ -1,17 +1,17 @@
 <div class='ui stackable container menu' style='margin-top: 1em;'>
   <div class='item'>
-    <img class='logo' src='assets/images/yantra.png'>
+    <img class='logo' src='/assets/images/yantra.png'>
   </div>
   <a class='ui left floated dropdown item'>
     Tipiṭaka
   <i class='dropdown icon'></i>
-  <div class='menu'>
-    <div class='header'>Sutta Pitaka</div>
+    <div class='menu'>
+      <div class='header'>Sutta Pitaka</div>
         <div class='item disabled'>Digha Nikaya</div>
         <div class='item'>
-          <i class='dropdown icon'></i>
+          <i class='angle down icon'></i>
           <span class='text'>Majjhima Nikaya</span>
-          <div class='menu' style='left: 20px;'>
+          <div class='menu'>
             <div class='item inactive'>1</div>
             <div class='item inactive'>2</div>
             <div class='item inactive'>3</div>
@@ -23,14 +23,14 @@
         <div class='item disabled'>Samyutta Nikaya</div>
         <div class='item disabled'>Anguttara Nikaya</div>
         <div class='item'>
-          <i class='dropdown icon'></i>
+          <i class='angle down icon'></i>
           <span class='text'>Khuddaka Nikaya</span>
-          <div class='menu' style='left: 20px;'>
-            <div class='item'>Khuddakapatha</div>
+          <div class='menu'>
+            <div class='item disabled'>Khuddakapatha</div>
             <div class='item'>
-              <i class='dropdown icon'></i>
+              <i class='angle down icon'></i>
               <span class='text'>Dhammapada</span>
-              <div class='menu' style='left: 20px;'>
+              <div class='menu'>
                 <div class='item inactive' data-value='tipitaka/kn/dhammapada/01-perechile.html'>I. Perechile</div>
               </div>
             </div>
@@ -56,14 +56,14 @@
         <div class='header'>Vinaya Pitaka</div>
         <div class='divider'></div>
         <div class='header'>Abhidhamma Pitaka</div>
-  </div>
-</a>
+    </div>
+  </a>
 </div>
 
 <script type='text/javascript'>
   $('.ui.dropdown')
   .dropdown({
-    duration: 700,
+    duration: 400,
     direction: 'downward',
     action: function(_, value) {
       $(location).attr('href', value);
