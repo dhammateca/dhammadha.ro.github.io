@@ -16,7 +16,7 @@
           <span class='text'>Khuddaka Nikaya</span>
           <div class='menu'>
             <div class='item disabled'>Khuddakapatha</div>
-            <div class='item'>Dhammapada</div>
+            <div class='item' data-value='kn/dhammapada'>Dhammapada</div>
             <div class='item disabled'>Udana</div>
             <div class='item disabled'>Sutta Nipata</div>
             <!-- <div class='item disabled'>Itivuttaka</div>
@@ -49,7 +49,8 @@
     duration: 400,
     direction: 'downward',
     action: function(_, value) {
-      $(location).attr('href', value);
+      var path = '/tipitaka/' + value;
+      $(location).attr('href', path);
     }
   })
   ;

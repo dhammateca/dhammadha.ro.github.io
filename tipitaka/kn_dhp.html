@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: tipitaka/kn/dhammapada
+---
+
+<style media="screen">
+  body {
+    counter-reset: chapter;
+  }
+
+  p::before {
+    counter-increment: chapter;                 /* Increment the value of section counter by 1 */
+    content: counter(chapter);                  /* Display the value of section counter */
+  }
+</style>
+
+{% for item in site.kn_dhp %}
+  <p><a href="{{ item.url }}">{{ item.name }}{{ item.title }}</a></p>
+{% endfor %}
