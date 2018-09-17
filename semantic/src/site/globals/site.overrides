@@ -1,3 +1,6 @@
 /*******************************
          Site Overrides
 *******************************/
+@fontName          : 'Source Sans Pro';
+@emSize   : 20px;
+@fontSize : 20px;
