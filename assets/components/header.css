@@ -131,19 +131,19 @@
 ---------------*/
 
 h1.ui.header {
-  font-size: 2rem;
-}
-h2.ui.header {
   font-size: 1.71428571rem;
 }
-h3.ui.header {
+h2.ui.header {
   font-size: 1.28571429rem;
 }
-h4.ui.header {
+h3.ui.header {
   font-size: 1.07142857rem;
 }
-h5.ui.header {
+h4.ui.header {
   font-size: 1rem;
+}
+h5.ui.header {
+  font-size: 0.92857143rem;
 }
 
 /* Sub Header */
@@ -169,19 +169,19 @@ h5.ui.header .sub.header {
 
 .ui.huge.header {
   min-height: 1em;
-  font-size: 2em;
-}
-.ui.large.header {
   font-size: 1.71428571em;
 }
-.ui.medium.header {
+.ui.large.header {
   font-size: 1.28571429em;
 }
-.ui.small.header {
+.ui.medium.header {
   font-size: 1.07142857em;
 }
-.ui.tiny.header {
+.ui.small.header {
   font-size: 1em;
+}
+.ui.tiny.header {
+  font-size: 0.92857143em;
 }
 
 /* Sub Header */
@@ -711,7 +711,7 @@ a.ui.inverted.grey.header:hover {
 --------------------*/
 
 .ui.header:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
-  font-size: 1.28571429em;
+  font-size: 1.07142857em;
 }
 
 

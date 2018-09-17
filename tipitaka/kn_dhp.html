@@ -8,12 +8,16 @@ permalink: tipitaka/kn/dhammapada
     counter-reset: chapter;
   }
 
-  p::before {
-    counter-increment: chapter;                 /* Increment the value of section counter by 1 */
-    content: counter(chapter);                  /* Display the value of section counter */
+  .chapter::before {
+    counter-increment: chapter;
+    content: counter(chapter);
   }
 </style>
 
+<h1>Dhammapada</h1>
+
 {% for item in site.kn_dhp %}
-  <p><a href="{{ item.url }}">{{ item.name }}{{ item.title }}</a></p>
+    <span class='chapter'>
+      <a href="{{ item.url }}">{{ item.name }}. {{ item.title }}</a><br />
+    </span>
 {% endfor %}
