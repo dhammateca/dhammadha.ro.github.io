@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: dhammapada
 title: Perechile
 ---
-Perechile
-===
+#### Perechile
 
 1\\
 Toate stările care iau ființă\\

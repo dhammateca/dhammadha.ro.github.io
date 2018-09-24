@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: dhammapada
 title: Conștiință
 ---
-Conștiință
-===
+#### Conștiință
 
 21\\
 Băgarea de seamă duce la Nemurire,\\

@@ -1,0 +1,14 @@
+<style media='screen'>
+  body {
+    counter-reset: chapter;
+  }
+
+  .chapter a {
+    color: #405de6
+  }
+
+  .chapter::before {
+    counter-increment: chapter;
+    content: counter(chapter);
+  }
+</style>

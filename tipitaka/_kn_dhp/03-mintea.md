@@ -1,0 +1,87 @@
+---
+layout: dhammapada
+title: Mintea
+---
+#### Mintea
+
+33\\
+La fel cum un făurar\\
+dă forma unei săgeți,\\
+așa cei înțelepți își cultivă mintea,\\
+atât de excitabilă, incertă\\
+și dificil de controlat.
+
+34\\
+Asemeni unui pește care\\
+fiind târât din casa-i în apă\\
+și aruncat pe teren uscat\\
+se va zbate,\\
+astfel inima va tremura\\
+când se retrage din curentul Marei.
+
+35\\
+Mintea activă e dificil de domesticit,\\
+zburdalnică și hoinărind oriunde vrea;\\
+e esențială domesticirea ei,\\
+călăuzind la bucuria bunăstării.
+
+36\\
+Mintea protejată și păzită\\
+duce la trai ușor.\\
+Cu toate că mintea aceasta e subtilă,\\
+evazivă și dificil de văzut,\\
+insul care e atent\\
+trebuie să se îngrijească\\
+și să vegheze asupra ei.
+
+37\\
+Hoinărind de capul ei de colo colo,\\
+fără formă,\\
+mintea se așterne în caverna inimii din interior.\\
+Să pui stăpânire pe ea\\
+e eliberare din înlănțuirea ignoranței.
+
+38\\
+În acela a cărui minte e nestatornică,\\
+a cărui inimă e nepregătită\\
+cu învățături adevărate,\\
+a cărui credință nu e matură,\\
+plenitudinea înțelepciunii încă nu se manifestă.
+
+39\\
+Nu există frică\\
+dacă inima e necontaminată\\
+de pasiuni\\
+și inima e liberă de voință bolnavă.\\
+Văzând dincolo de bine și rău,\\
+acela e treaz.
+
+40\\
+Văzând acest corp fragil\\
+ca un vas de lut,\\
+și fortificând inima precum zidurile unui oraș,\\
+insul o poate confrunta pe Mara\\
+cu arma introspecției.\\
+Având avantajul detașării,\\
+insul protejează ce a fost deja dobândit.
+
+41\\
+Cu siguranță acest corp\\
+curând va sta fără viață\\
+aruncat\\
+încolo pe sol\\
+vidat de conștiință\\
+și la fel de inutil\\
+precum un butuc ars.
+
+42\\
+Mai mult decât un hoț,\\
+Mai mult decât un inamic,\\
+o inimă greșit îndrumată\\
+îl duce pe ins la necaz.
+
+43\\
+Nici mama, nici tata\\
+nici un alt membru al unei familii\\
+nu îți poate oferi binecuvântările\\
+generate de propria ta inimă bine îndrumată.

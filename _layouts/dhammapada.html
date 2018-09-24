@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "ro" }}">
+
+  {%- include chapter-counter.html -%}
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class='ui container'>
+      <div class='ui card'>
+        <div class='content'>
+          <h3>Dhammapada</h3>
+        </div>
+        <div class='content'>
+          <div class='ui small feed'>
+            {% for item in site.kn_dhp %}
+            <span class='chapter'><a href='{{ item.url }}'>{{ item.name }}. {{ item.title }}</a><br /></span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
