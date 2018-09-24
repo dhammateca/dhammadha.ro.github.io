@@ -25,8 +25,9 @@ url: http://dhammadha.ro # the base hostname & protocol for your site, e.g. http
 # Build settings
 markdown: kramdown
 # theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
