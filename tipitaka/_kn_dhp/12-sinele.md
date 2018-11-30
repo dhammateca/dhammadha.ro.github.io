@@ -1,0 +1,72 @@
+---
+layout: dhammapada
+title: Sinele
+---
+#### Sinele
+
+157\\
+Dacă ținem la noi,\\
+atunci ne dăm în propria paza\\
+atât ziua, cât și noaptea.
+
+158\\
+E înțelept\\
+a ne îndrepta pe sine\\
+înainte de a-i instrui pe alții.
+
+159\\
+Sinele insului e cel mai greu de disciplinat.\\
+Să faci ceea ce spui:\\
+îmblânzește-te\\
+înainte de a încerca să-i îmblânzești pe alții.
+
+160\\
+Sincer suntem noi\\
+cei de care depindem;\\
+cum am putea realmente\\
+să depindem de altcineva?\\
+Când ajungem\\
+la starea de autosuficiență\\
+găsim un refugiu rar.
+
+161\\
+La fel cum diamantul poate tăia\\
+prin piatra ce odată l-a adăpostit,\\
+astfel și propriul rău te poate măcina.
+
+162\\
+Răufăcătorii dedicați\\
+se comportă față de ei\\
+precum inamicii lor cei mai mari.\\
+Sunt precum târâtoarele\\
+care strangulează copacii\\
+care le suștin.
+
+163\\
+E ușor a face ce e fără de real folos\\
+pentru sine,\\
+dar e firește dificil să faci\\
+ceea ce e într-adevăr benefic și bun.
+
+164\\
+Precum bambusul\\
+care se distruge dând roade,\\
+la fel se rănesc și cei necopți\\
+având perspective greșite\\
+și luându-i în derâdere pe cei vrednici\\
+care trăiesc în armonie cu Calea.
+
+165\\
+Noi înșine facem rău\\
+și noi înșine suntem făcuți impuri.\\
+Noi înșine evităm răul\\
+și noi înșine suntem făcuți puri.\\
+Aspectul purității e grija noastră.\\
+Nimeni altcineva nu poate fi responsabil.
+
+166\\
+Cunoscând Calea pentru sine,\\
+parcurge-o temeinic.\\
+Nu îngădui nevoilor altora,\\
+oricât de insistente,\\
+să ivească confuzie.

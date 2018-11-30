@@ -1,0 +1,99 @@
+---
+layout: dhammapada
+title: Cei înțelepți
+---
+#### Cei înțelepți
+
+76\\
+Doar binecuvântări pot răsări din căutarea\\
+companiei persoanelor înțelepte și deslușitoare,\\
+care oferă iscusit\\
+atât mustrare, cât și sfat\\
+ca și cum ar ghida insul\\
+spre o comoară ascunsă.
+
+77\\
+Fie ca înțelepții să îndrume ființele\\
+departe de întuneric,\\
+să dea direcție și sfaturi.\\
+Vor fi prețuiți de către cei virtuoși\\
+și îndepărtați de către cei necopți.
+
+78\\
+Nu căuta compania prietenilor prost îndrumați;\\
+fii prevăzător cu companionii degenerați.\\
+Caută compania prietenilor bine îndrumați,\\
+cei care sprijină introspecția.
+
+79\\
+Capitularea sinelui Dhammei\\
+conduce la existență senină.\\
+Înțelepții se delectează perpetuu în adevărul\\
+predat de către Unul Trezit.
+
+80\\
+Cei care construiesc canale\\
+canalizează cursul apei.\\
+Săgetarii fac săgeți.\\
+Lemnarii făuresc lemn.\\
+Înțelepții se domesticesc pe ei înșiși.
+
+81\\
+Cum piatra solidă\\
+e nemișcată de vânt,\\
+așa sunt și cei cu înțelepciunea neperturbată\\
+nici de laudă, nici de ocară.
+
+82\\
+La auzul învățăturilor adevărate\\
+inimile celor receptivi\\
+devin senine,\\
+ca un lac adânc, limpede și nemișcat.
+
+83\\
+Ființele virtuoase sunt neatașate.\\
+Nu se înfruptă din vorbit fără noimă\\
+despre plăceri senzuale.\\
+Cunosc atât fericirea,\\
+cât și supărarea,\\
+dar nu sunt posedate de niciuna.
+
+84\\
+Nici pentru binele propriu,\\
+nici în numele altuia\\
+o persoană înțeleaptă nu face pagubă\\
+– nu pentru hatârul familiei, averii sau câștigului.\\
+Unul astfel e de drept numit\\
+just, virtuos și înțelept.
+
+85\\
+Puțini sunt cei care ajung departele.\\
+Mulți pășesc fără sfârșit înapoi și înainte,\\
+neîndrăznind să riște călătoria.
+
+86\\
+Deși e dificil să treci dincolo\\
+de marea bătută de ploile pasiunii,\\
+cei care trăiesc în conformitate\\
+cu Calea bine-predată\\
+ajung departele.
+
+87-88\\
+Cu imaginea liberării ca țel\\
+cei înțelepți abandonează întunericul\\
+și prețuiesc lumina,\\
+lasă siguranța măruntă în urmă\\
+și caută libertatea de atașament.\\
+A fi pe urmele unei asemenea desfaceri\\
+e dificil și rar,\\
+totuși cei înțelepți o vor căuta,\\
+detașându-se de obstrucții,\\
+purificând inima și mintea.
+
+89\\
+Eliberându-se de năzuință,\\
+neîmpiedicați de obișnuințe deprinse,\\
+cei care se aliniază cu Calea\\
+se delectează în detașare\\
+și, cât încă stau în lume,\\
+sunt radioși.
