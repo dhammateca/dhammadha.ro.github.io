@@ -9,26 +9,33 @@
     {%- include header.html -%}
 
     <main class='ui container'>
-      <div class='ui card'>
-        <div class='content'>
-          <h3>Dhammapada</h3>
-        </div>
-        <div class='content'>
-          <div class='ui small feed'>
-            {% for item in site.kn_dhp %}
-            <span class='chapter'><a href='{{ item.url }}'>{{ item.name }}. {{ item.title }}</a><br /></span>
-            {% endfor %}
+      <div class='ui segment'>
+        <div class='ui card'>
+          <div class='content'>
+            <h3>Dhammapada</h3>
+          </div>
+          <div class='content'>
+            <div class='ui small feed'>
+              {% for item in site.kn_dhp %}
+              <span class='chapter'><a href='{{ item.url }}'>{{ item.name }}. {{ item.title }}</a><br /></span>
+              {% endfor %}
+            </div>
           </div>
         </div>
-      </div>
 
-      {{ content }}
-      <div>
-        Traducere a cărții 
-        <a href='https://www.amaravati.org/dhamma-books/a-dhammapada-for-contemplation/'>
-          A Dhammapada for Contemplation
-        </a>
+        {{ content }}
+
+        <div class='ui divider'></div>
+
+        <small>
+          Traducere a cărții
+          «<a href='https://www.amaravati.org/dhamma-books/a-dhammapada-for-contemplation/'>A Dhammapada for Contemplation</a>»
+            aflată sub
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">
+            licenţa Creative Commons Atribuire-Necomercial 3.0 Ne-adaptată</a>.
+        </small>
       </div>
+      <br>
     </main>
 
     {%- include footer.html -%}

@@ -3,4 +3,17 @@
 
 .ui.menu .dropdown.item .menu {
   left: 55px;
+  background-image: url(/assets/images/retina-wood.png);
+}
+
+.ui.segment {
+  background-image: url(/assets/images/vintage-concrete.png);
+}
+
+.ui.card {
+  background-image: url(/assets/images/dust-scratches.png);
+}
+
+.ui.menu {
+  background-image: url(/assets/images/retina-wood.png);
 }
