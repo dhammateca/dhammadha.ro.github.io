@@ -29,9 +29,10 @@ npm update
 
 * Technology
   * [Jekyll](https://jekyllrb.com)
-  * [Minima theme](https://github.com/jekyll/minima)
+  * [GitHub Pages](https://pages.github.com/)
   * [Jekyll book theme](https://github.com/henrythemes/jekyll-book-theme)
   * [Semantic UI](https://semantic-ui.com/)
+  * [Toptal patterns](https://www.toptal.com/designers/subtlepatterns/)
 
 
 * Food for thought
