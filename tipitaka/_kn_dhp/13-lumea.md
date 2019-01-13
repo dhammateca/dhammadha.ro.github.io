@@ -1,0 +1,86 @@
+---
+layout: dhammapada
+title: Lumea
+---
+#### Lumea
+
+167\\
+Abandonând căile nevrednice\\
+și netrăind neglijent,\\
+fără a avea perspective greșite,\\
+încetăm în a perpetua deziluzia.
+
+168\\
+Nu afișa falsă umilitate.\\
+Rămâi ferm raportat la țelul tău.\\
+Practicând cu atenția cuvenită,\\
+ajungi la împăcarea cu sine\\
+atât acum, cât și în viitor.
+
+169\\
+Trăiește-ți viața în bun acord cu Calea –\\
+evită o viață confuză.\\
+O viață bine trăită duce la împăcarea cu sine\\
+atât acum, cât și în viitor.
+
+170\\
+Regele Morții nu-i poate găsi\\
+pe cei care privesc lumea\\
+ca fiind nesubstanţială,\\
+ca fiind tranzientă, o bulă –\\
+iluzorie, doar un miraj.
+
+171\\
+Vino, vezi această lume.\\
+Vezi-o precum o caleașcă împodobită festiv.\\
+Vezi cum nesăbuiții sunt hipnotizați\\
+de vedeniile lor;\\
+totuși pentru cei înțelepți nu există atașament.
+
+172\\
+Sunt aceia care\\
+se trezesc din nebăgarea de seamă.\\
+Aduc lumină în lume\\
+precum luna\\
+ivindu-se dintre nori.
+
+173\\
+Cel care transformă căi vechi\\
+și lipsite de băgare de seamă\\
+în căi noi și fapte prielnice\\
+aduce lumină în lume\\
+precum luna eliberată de nori.
+
+174\\
+Dacă păsările sunt prinse într-o plasă\\
+doar câteva vor scăpa vreodată.\\
+În această lume a iluziei\\
+puțini își văd de drum până la eliberare.
+
+175\\
+Lebedele albe se ridică în aer.\\
+Yoghinii înzestrați\\
+călătoresc prin spațiu.\\
+Ființele înțelepte\\
+transcend deziluzia lumească\\
+amăgind hoardele lui Mara.
+
+176\\
+Pentru insul care încalcă\\
+legea veridicității,\\
+insul care nu ține seama\\
+de existența viitoare,\\
+nu există niciun fel de rău\\
+care e imposibil.
+
+177\\
+Cei care eșuează în a prețui generozitatea\\
+nu ajung pe tărâmurile cerești.\\
+Însă cei înțelepți se bucură când oferă\\
+și își duc de-a pururi veacul în exaltare.
+
+178\\
+Mai bine decât a conduce întreaga lume,\\
+mai bine decât a ajunge în rai,\\
+mai bine decât stăpânirea asupra universului,\\
+e un angajament ireversibil față de Cale.

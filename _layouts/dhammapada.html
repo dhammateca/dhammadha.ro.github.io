@@ -11,19 +11,25 @@
     <main class='ui container'>
       <div class='ui segment'>
         <div class='ui card'>
-          <div class='content'>
+          <div class='content' id='adi'>
             <h3>Dhammapada</h3>
           </div>
           <div class='content'>
             <div class='ui small feed'>
               {% for item in site.kn_dhp %}
-              <span class='chapter'><a href='{{ item.url }}'>{{ item.name }}. {{ item.title }}</a><br /></span>
+                <span class='chapter'><a href='{{ item.url }}#majjhe'>{{ item.name }}. {{ item.title }}</a><br /></span>
               {% endfor %}
             </div>
           </div>
         </div>
 
-        {{ content }}
+        <div class='content' id='majjhe'>
+          {{ content }}
+        </div>
+
+        <a href='#adi' class='fluid ui primary basic button' style='margin-top: 1em;'>
+          Înapoi la cuprins
+        </a>
 
         <div class='ui divider'></div>
 
