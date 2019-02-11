@@ -1,0 +1,44 @@
+---
+<!-- layout: nikaya -->
+permalink: tipitaka/mn
+title: Majjhima Nikaya
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "ro" }}">
+
+  {%- include head.html -%}
+  <style>
+    .ui.cards {
+      justify-content: space-evenly;
+    }
+  </style>
+  <body>
+
+    {%- include header.html -%}
+
+    <main class='ui container'>
+      <div class='ui segment'>
+        <h3>Majjhima Nikaya</h3>
+        <div class='ui cards'>
+          {% for item in site.mn %}
+            <a class='card' href={{ item.url }}>
+              <div class='content'>
+                <div class='center aligned header'>{{ item.title }}</div>
+                <div class='right aligned meta'>MN{{ item.name }}</div>
+                <div class='description'>
+                  {{ item.romanian_title }}
+                </div>
+              </div>
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      <br>
+    </main>
+
+    <!-- {%- include footer.html -%} -->
+
+  </body>
+
+</html>

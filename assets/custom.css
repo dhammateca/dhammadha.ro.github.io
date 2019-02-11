@@ -17,3 +17,7 @@
 .ui.menu {
   background-image: url(/assets/images/retina-wood.png);
 }
+
+footer {
+  margin-top: 1em;
+}

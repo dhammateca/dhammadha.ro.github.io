@@ -47,3 +47,6 @@ collections:
   kn_dhp:
     output: true
     permalink: /tipitaka/kn/dhammapada/:name
+  mn:
+    output: true
+    permalink: /tipitaka/mn/:name
