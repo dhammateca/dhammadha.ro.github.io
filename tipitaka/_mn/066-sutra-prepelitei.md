@@ -8,8 +8,6 @@ layout: sutta
 ### MN 66: Latukikopama Sutta
 #### Sutra prepeliței
 
-Latukikopama Sutta: Sutra prepeliței
-
 Am auzit că, odată, Cel Binecuvântat stătea printre anguttarapani, într-un oraș anguttarapan numit Apana. Atunci, dimineața devreme, îmbrăcându-și roba și ținându-și mantia și bolul, s-a dus în Apana pentru pomană. După ce a cutreierat pentru pomană în Apana și întorcându-se de pe traseul pentru pomană, după ce a mâncat, a mers într-un anume desiș păduros pentru șederea zilei. Afundându-se în deșis, s-a așezat pentru șederea zilei la rădăcina unui anume copac.
 
 Venerabilul Udayin, asemenea, dimineața devreme, îmbrăcându-și roba și ținându-și mantia și bolul, s-a dus în Apana pentru pomană. După ce a cutreierat pentru pomană în Apana și întorcându-se de pe traseul pentru pomană, după ce a mâncat, a mers în acel desiș păduros pentru șederea zilei. Afundându-se în deșis, s-a așezat pentru șederea zilei la rădăcina unui anume copac. Atunci, cum era izolat în singurătate, acest alai de gânduri a răsărit în conștiința lui: “De atât de multe lucruri dureroase ne-a scăpat Cel Binecuvântat! Atât de multe lucruri încântătoare ne-a adus! De atât de multe trăsături neiscusite ne-a scăpat Cel Binecuvântat! Atât de multe trăsături iscusite ne-a adus!”
