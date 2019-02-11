@@ -8,7 +8,7 @@ layout: sutta
 ### MN 19: Dvedhavitakka Sutta
 #### Două feluri de a gândi
 
-Am auzit că, odată, Cel Binecuvântat stătea în Savatthi, în Jetavana, mănăstirea lui Anathapindika. Acolo el s-a adresat călugărilor: „Călugărilor!”
+Am auzit că, odată, Cel Binecuvântat stătea în apropiere de Sāvatthī, în Jetavana, mănăstirea lui Anāthapiṇḍika. Acolo el s-a adresat călugărilor: „Călugărilor!”
 
 „Da, doamne,” au răspuns călugării.
 
