@@ -11,6 +11,10 @@
   font-style: normal;
 }
 
+.ui.accordion .title {
+  font-color: rgba(0, 0, 0, 0.87);
+}
+
 /* Dropdown Icon */
 .ui.accordion .title .dropdown.icon,
 .ui.accordion .accordion .title .dropdown.icon {

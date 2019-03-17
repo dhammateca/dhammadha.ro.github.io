@@ -9,7 +9,7 @@
 @fontName          : 'Source Sans Pro';
 @fontSmoothing     : antialiased;
 
-@headerFont        : 'Domine', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@headerFont        : 'Source Sans Pro', 'Helvetica Neue', Arial, Helvetica, sans-serif;
 @pageFont          : @fontName, 'Helvetica Neue', Arial, Helvetica, sans-serif;
 
 @googleFontName    : @fontName;
