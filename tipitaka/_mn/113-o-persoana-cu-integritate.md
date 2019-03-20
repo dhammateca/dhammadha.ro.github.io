@@ -4,6 +4,7 @@ title: Sappurisa Sutta
 english_title: A Person of Integrity
 romanian_title: O Persoană cu Integritate
 layout: sutta
+copyright_url: https://www.accesstoinsight.org/tipitaka/mn/mn.113.than.html
 ---
 ### MN 113: Sappurisa Sutta
 #### O Persoană cu Integritate

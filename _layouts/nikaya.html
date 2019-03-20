@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "ro" }}">
+
+  {%- include head.html -%}
+  <style>
+    .ui.cards {
+      justify-content: space-evenly;
+    }
+  </style>
+  <body>
+
+    {%- include header.html -%}
+
+    <main class='ui container'>
+      <div class='ui segment'>
+        <h3>{{ page.title }}</h3>
+        <div class='ui cards'>
+          {{ content }}
+        </div>
+      </div>
+      <br>
+    </main>
+
+    <!-- {%- include footer.html -%} -->
+
+  </body>
+
+</html>

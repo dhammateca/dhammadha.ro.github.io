@@ -4,6 +4,7 @@ title: Latukikopama Sutta
 english_title: The Quail Simile
 romanian_title: Sutra Prepeliței
 layout: sutta
+copyright_url: https://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html
 ---
 ### MN 66: Latukikopama Sutta
 #### Sutra prepeliței

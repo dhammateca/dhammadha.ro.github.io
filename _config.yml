@@ -51,3 +51,6 @@ collections:
   mn:
     output: true
     permalink: /tipitaka/mn/:name
+  sn:
+    output: true
+    permalink: /tipitaka/sn/:name

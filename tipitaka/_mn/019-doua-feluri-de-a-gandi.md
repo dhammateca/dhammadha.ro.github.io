@@ -4,6 +4,7 @@ title: Dvedhavitakka Sutta
 english_title: Two Sorts of Thinking
 romanian_title: Două Feluri de a Gândi
 layout: sutta
+copyright_url: https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html
 ---
 ### MN 19: Dvedhavitakka Sutta
 #### Două feluri de a gândi
