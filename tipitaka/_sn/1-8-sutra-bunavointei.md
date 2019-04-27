@@ -11,7 +11,7 @@ copyright_url: https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.htm
 
 Asta trebuie îndeplinit de către cel care e priceput în țeluri\\
 care vrea să pătrundă în starea de calm:\\
-aă fie abil, drept și franc,\\
+să fie abil, drept și franc,\\
 ușor de instruit, gentil și lipsit de trufie,
 
 împăcat și ușor de susținut,\\
