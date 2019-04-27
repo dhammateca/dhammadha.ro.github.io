@@ -34,7 +34,7 @@ fără urme se duc pe cale.
 94\\
 Precum caii bine-antrenați de stăpâni\\
 sunt cei care și-au domesticit simțurile;\\
-avându-și inimile eliberate\\
+având inimile eliberate\\
 de mândrie și poluare\\
 generează încântare atotcuprinzătoare.
 
@@ -50,7 +50,7 @@ neperturbați precum un iaz limpede și liniștit.
 96\\
 Cei care ajung\\
 la starea de libertate perfectă\\
-prin dreaptă înțelegere\\
+prin înțelegere dreaptă\\
 sunt neperturbați\\
 în corp, vorbire și minte.\\
 Ei rămân nemișcați\\
@@ -66,7 +66,7 @@ sunt ființele cele mai vrednice.
 Fie într-o pădure,\\
 un oraș sau ținut deschis,\\
 încântător e sălașul\\
-unuia care acum e liber deplin.
+unuia care acum e deplin liber.
 
 99\\
 Ființele libere de dependența de plăceri senzuale\\

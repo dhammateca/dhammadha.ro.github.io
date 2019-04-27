@@ -51,9 +51,10 @@ trupurile noastre se vor descompune,\\
 adevărul singur va supraviețui degenerărilor.
 
 152\\
-Cât timp nesăbuiții pun pe ei\\
-precum boii în staulul lor,\\
-mintea le rămâne mică.\\
+Cât timp nesăbuiții, înaintând în vârstă,\\
+pun pe ei precum boii în staulul lor,\\
+mintea le rămâne mică.
+
 153-154\\
 Preț de multe vieți am pribegit\\
 căutându-l, deși e de negăsit,\\

@@ -136,12 +136,12 @@ pe aceia îi numesc ființe mărețe.
 403\\
 Pe cei ce posedă o înțelepciune profundă,\\
 care văd ce anume este în conformitate cu Calea și ce nu este,\\
-pe cei care au făcut tot ce le este în putință,\\
+pe cei care au făcut tot ce le stă în putință,\\
 pe aceia îi numesc ființe mărețe.
 
 404\\
 Cei eliberați de atașamentul\\
-față fie de laici, fie față de alții care au renunțat,\\
+fie față de laici, fie față de alții care au renunțat,\\
 și astfel hoinăresc fără dorințe\\
 sau fără grijă față de siguranța de orice fel\\
 sunt ființe mărețe.
@@ -182,7 +182,7 @@ ceea ce aparține altuia.
 
 410\\
 Inima unei ființe mărețe este liberă.\\
-Ființele libere nu mai tânjesc\\
+Ființele mărețe nu mai tânjesc\\
 după lucrurile din această lume\\
 sau din orice altă lume.
 
@@ -214,7 +214,7 @@ traversează oceanul decepției\\
 prin întunericul ignoranței\\
 și trec dincolo.\\
 Sunt întărite de contemplare înțeleaptă,\\
-sigure fără de îndoieli, eliberare;\\
+sigure fără de îndoieli, eliberate;\\
 aceste ființe sunt cu adevărat mărețe.
 
 415\\

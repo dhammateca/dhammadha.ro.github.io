@@ -36,7 +36,7 @@ Cei care construiesc canale\\
 canalizează cursul apei.\\
 Săgetarii fac săgeți.\\
 Lemnarii făuresc lemn.\\
-Înțelepții se domesticesc pe ei înșiși.
+Înțelepții se domesticesc.
 
 81\\
 Cum piatra solidă\\

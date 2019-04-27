@@ -10,21 +10,17 @@ la o fericire mai neînsemnată\\
 în căutarea unei fericiri mai însemnate.
 
 291\\
-Eșuezi\\
-în căutarea fericirii\\
-dacă o cauți cu prețul stării de bine a\\
-altora.\\
-Lațul voinței bolnave te poate strânge în\\
-continuare.
+Eșuezi în căutarea fericirii\\
+dacă o cauți cu prețul stării de bineââ
+a altora.\\
+Lațul voinței bolnave te poate strânge în continuare.
 
 292\\
 A lăsa nefăcut\\
 ceea ce ar trebui făcut\\
-și a face\\
-ceea ce ar trebui evitat\\
+și a face ceea ce ar trebui evitat\\
 duce la neatenție și trufie.\\
-Iar astfel confuzia va\\
-spori.
+Iar astfel confuzia va spori.
 
 293\\
 Confuzia încetează\\

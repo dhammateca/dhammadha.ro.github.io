@@ -40,10 +40,10 @@ nu o poate distorsiona sau înlătura.
 
 106\\
 A onora, chiar și pentru un singur moment,\\
-pe unul care a ajuns la măiestria sinelui\\
+pe unul care a ajuns la stăpânirea de sine\\
 e un merit mai mare\\
 decât a aduce ofrande nenumărate\\
-celor nevredinici.
+celor nevrednici.
 
 107\\
 A onora, chiar și pentru un singur moment,\\
@@ -57,12 +57,12 @@ Chiar și dacă insul petrece\\
 un an întreg\\
 aducând ofrande\\
 de dragul câștigului propriu,\\
-toate acestea nu vor valora un sfert din valoarea\\
+toate acestea nu vor cântări un sfert din valoarea\\
 aducerii de venerare unei ființe nobile.
 
 109\\
-Pentru insul care onorează și respectă mereu\\
-aceia cu ani mulți\\
+Pentru insul care îi onorează și respectă mereu\\
+pe aceia cu ani mulți\\
 există patru binecuvântări:\\
 viață lungă, frumusețe, fericire și putere.
 
@@ -82,7 +82,7 @@ privați de disciplină și înțelepciune.
 
 112\\
 O singură zi trăită\\
-cu intenție conștientă și virtute\\
+cu intenție conștientă și efort temeinic\\
 e de valoare\\
 mai mare decât o sută de ani\\
 trăiți în pasivitate leneșă.

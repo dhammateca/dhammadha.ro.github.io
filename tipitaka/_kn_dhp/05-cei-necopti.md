@@ -45,12 +45,12 @@ toată viața printre cei înțelepți.
 Asemeni limbii care poate aprecia\\
 savoarea supei\\
 e unul care poate discerne clar adevărul\\
-după doar o sumară\\
+după doar o scurtă\\
 asociere cu cei înțelepți.
 
 66\\
-Prin lipsa de lucidate\\
-făcând rău,\\
+Făcând rău,\\
+fără băgare de seamă,\\
 nesăbuiții imprudenți\\
 își produc propriile fructe amare.\\
 Ei se comportă precum inamicii lor cei mai mari.
@@ -58,7 +58,7 @@ Ei se comportă precum inamicii lor cei mai mari.
 67\\
 O faptă nu e bine făcută\\
 când la reflecție asupra sa remușcarea răsare:\\
-cu lacrimi din supărare\\
+cu lacrimi de supărare\\
 insul își culege fructele.
 
 68\\
@@ -78,7 +78,7 @@ nesăbuiții suferă într-adevăr.
 Chiar și după luni de post aspru,\\
 subzistând cu o dietă frugală,\\
 un necopt nu poate fi comparat ca valoare\\
-cu persoana care vede simplu adevărul.
+cu persoana care vede pur și simplu adevărul.
 
 71\\
 Laptele proaspăt nu se brânzește\\

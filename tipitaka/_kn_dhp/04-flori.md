@@ -21,7 +21,7 @@ cei care umblă conștient pe Cale\\
 care văd cum sunt cu adevărat\\
 acest pământ, acest corp,\\
 tărâmurile iadului și tărâmurile paradisului.\\
-Ei sunt aceea care pot discerne\\
+Ei sunt aceia care pot discerne\\
 bine predicata Cale a Înțelepciunii.
 
 46\\
@@ -55,7 +55,7 @@ se mișcă prin lume.
 
 50\\
 Nu poposi asupra defectelor\\
-și neajunsurilor altora,\\
+și neajunsurilor altora;\\
 în schimb, caută claritate\\
 în privința alor tale.
 

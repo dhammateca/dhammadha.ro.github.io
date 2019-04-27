@@ -11,13 +11,13 @@ Mintea care e înceată în a face bine\\
 poate ușor să găsească plăcere în facerea de rău.
 
 117\\
-Dacă îndeplinești o faptă rea,\\
+Dacă săvârșești o faptă rea,\\
 atunci nu o repeta.\\
 Evită a găsi plăcere în amintirea ei.\\
 Urmarea facerii de rău e dureroasă.
 
 118\\
-Odată îndeplinită o faptă benefică\\
+Odată săvârșită o faptă benefică\\
 e bine să o repeți iar și iar.\\
 Fii interesat de plăcerea binefacerii.\\
 Fructul bunătății acumulate e împăcarea cu sine.
@@ -90,7 +90,7 @@ Nu există loc pe pământ\\
 unde cineva se poate ascunde\\
 de consecințele faptelor rele –\\
 nici într-o peșteră de munte,\\
-în ocean, nici în cer.
+nici în ocean, nici în cer.
 
 128\\
 Nu există loc pe pământ\\

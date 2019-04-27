@@ -5,12 +5,12 @@ title: Conștiință
 #### Conștiință
 
 21\\
-Băgarea de seamă duce la Nemurire,\\
+Băgarea de seamă duce la Nemurire;\\
 nebăgarea de seamă duce la moarte.\\
 Cei care sunt cu băgare de seamă\\
 sunt vii pe deplin,\\
 cât timp cei lipsiți de băgare de seama\\
-sunt deja ca și morți.
+sunt deja ca morți.
 
 22\\
 Înțelepții, fiind vii pe deplin,\\
@@ -67,7 +67,7 @@ e capabil să vadă câmpiile.
 Conștienți printre cei fără băgare de seamă,\\
 treji printre cei care dorm,\\
 cei înțelepți merg înainte\\
-precum cai tineri puternici,\\
+precum caii tineri puternici,\\
 lăsându-i în urmă pe cei epuizați.
 
 30\\
@@ -78,8 +78,8 @@ neglijența e mereu batjocorită.
 
 31\\
 Cel care renunță și se delectează\\
-în vigilență\\
-ferindu-se de nebăgare de seamă\\
+în vigilență,\\
+ferindu-se de nebăgare de seamă,\\
 avansează asemeni focului prin iarbă,\\
 consumând obstrucții mari și mici.
 

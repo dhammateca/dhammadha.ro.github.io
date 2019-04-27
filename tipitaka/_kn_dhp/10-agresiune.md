@@ -6,7 +6,7 @@ title: Agresiune
 
 129\\
 Având empatie pentru alții,\\
-insul vede că toate ființele sunt înfricoșate\\
+insul vede că toate ființele se tem\\
 de pedeapsă și de moarte.\\
 Știind asta,\\
 insul nu atacă sau provoacă un atac.
@@ -26,7 +26,7 @@ e să ne aducem rău nouă înșine.
 132\\
 A evita rănirea ființelor vii\\
 care, la fel ca noi, caută satisfacția,\\
-e să ne aducem fericirea nouă înșine.
+e să ne aducem fericirea.
 
 133\\
 Evită să vorbești aspru altora;\\
@@ -53,7 +53,7 @@ la fel cum insul se arde când mânuiește foc.
 
 137-140\\
 A pricinui rău\\
-celor lipșiti de apărare\\
+celor lipsiți de apărare\\
 aduce curând suferință celor care atacă.\\
 Vor culege durere sau sărăcie sau pierdere,\\
 boală, nebunie sau persecuție,\\
@@ -102,4 +102,4 @@ Cei care construiesc canale\\
 canalizează cursul apei.\\
 Săgetarii fac săgeți.\\
 Lemnarii făuresc lemn.\\
-Cei bun se domesticesc pe ei înșiși.
+Cei buni se domesticesc.

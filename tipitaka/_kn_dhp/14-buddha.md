@@ -111,6 +111,6 @@ binecuvântată e concordia Sanghăi;\\
 Nemăsurat e beneficiul\\
 obținut din cinstirea celor\\
 ce sunt puri și dincolo de frică.\\
-Ființele care au găsit libertatea\\
-din supărare și mâhnire\\
+Ființele care au descoperit eliberarea\\
+de supărare și mâhnire\\
 sunt demne de onoare.

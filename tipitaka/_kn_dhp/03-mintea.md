@@ -22,7 +22,7 @@ când se retrage din curentul Marei.
 35\\
 Mintea activă e dificil de domesticit,\\
 zburdalnică și hoinărind oriunde vrea;\\
-e esențială domesticirea ei,\\
+domesticirea ei e esențială,\\
 călăuzind la bucuria bunăstării.
 
 36\\
@@ -52,7 +52,7 @@ plenitudinea înțelepciunii încă nu se manifestă.
 Nu există frică\\
 dacă inima e necontaminată\\
 de pasiuni\\
-și inima e liberă de voință bolnavă.\\
+și mintea e liberă de voință bolnavă.\\
 Văzând dincolo de bine și rău,\\
 acela e treaz.
 
@@ -77,11 +77,11 @@ precum un butuc ars.
 42\\
 Mai mult decât un hoț,\\
 Mai mult decât un inamic,\\
-o inimă greșit îndrumată\\
+o inimă îndrumată greșit\\
 îl duce pe ins la necaz.
 
 43\\
 Nici mama, nici tata\\
 nici un alt membru al unei familii\\
 nu îți poate oferi binecuvântările\\
-generate de propria ta inimă bine îndrumată.
+generate de propria inimă bine îndrumată.

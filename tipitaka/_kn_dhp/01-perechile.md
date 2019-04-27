@@ -7,10 +7,10 @@ title: Perechile
 1\\
 Toate stările care iau ființă\\
 sunt determinate\\
-de către inimă.\\
-Inima e cea care îndrumă calea.\\
+de inimă.\\
+Inima e cea care îndrumă pe cale.\\
 Exact cum roata carului\\
-urmează amprenta copitei animalului care-l trage\\
+urmează amprenta copitei animalului care-l trage,\\
 așa suferința va urma\\
 cu siguranță\\
 când vorbim sau acționăm impulsiv\\
@@ -19,8 +19,8 @@ dintr-o inimă impură.
 2\\
 Toate stările care iau ființă\\
 sunt determinate\\
-de către inimă\\
-Inima e cea care îndrumă calea\\
+de inimă.\\
+Inima e cea care îndrumă pe cale.\\
 La fel de sigur cum umbra noastră\\
 nu ne părăsește niciodată,\\
 așa bunăstarea va urma\\
@@ -42,12 +42,12 @@ de gânduri precum\\
 „M-au abuzat,\\
 m-au maltratat,\\
 m-au brutalizat,\\
-m-au jefuit”\\
+m-au jefuit”,\\
 ura e cucerită.
 
 5\\
 Niciodată ura nu e prin ură cucerită,\\
-dar prin disponibilitatea de a iubi singur.\\
+ci doar prin disponibilitatea de a iubi.\\
 Aceasta e lege eternă.
 
 6\\
@@ -64,7 +64,7 @@ poate dezrădăcina\\
 un copac firav,\\
 așa cel care se ține\\
 fără băgare de seamă de plăcere,\\
-cine se răsfață cu mâncare\\
+cel care se răsfață cu mâncare\\
 și e nepăsător\\
 poate fi dezrădăcinat de Mara.
 
@@ -73,7 +73,7 @@ La fel cum rafala unei furtuni\\
 nu poate urni un munte de piatră,\\
 așa cel care contemplă\\
 realitatea corpului,\\
-cine dezvoltă credință și energie,\\
+care dezvoltă credință și energie,\\
 e nemișcat de Mara.
 
 9\\
@@ -103,7 +103,7 @@ insul trăiește\\
 în perfectul real.
 
 13\\
-Asemeni ploii înfiltrându-se\\
+Asemeni ploii infiltrându-se\\
 printr-un acoperiș prost împăiat,\\
 pasiunile nesupuse se preling\\
 într-o inimă neîmblânzită.
@@ -150,7 +150,7 @@ multe despre Dhamma,\\
 dacă insul nu trăiește propice –\\
 asemeni unui văcar\\
 ce râvnește vitele altuia –\\
-insul nu trăiește\\
+insul nu va afla\\
 niciunul din beneficiile\\
 de a umbla Calea.
 
