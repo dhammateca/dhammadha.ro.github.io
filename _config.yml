@@ -54,3 +54,6 @@ collections:
   sn:
     output: true
     permalink: /tipitaka/sn/:name
+  kn_ud:
+    output: true
+    permalink: /tipitaka/kn/ud/:name
