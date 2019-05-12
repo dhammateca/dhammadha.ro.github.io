@@ -6,13 +6,5 @@ shortname: Ud
 ---
 
 {% for item in site.kn_ud %}
-  <a class='card' href={{ item.url }}>
-    <div class='content'>
-      <div class='center aligned header'>{{ item.title }}</div>
-      <div class='right aligned meta'>{{ page.shortname }}{{ item.name }}</div>
-      <div class='description'>
-        {{ item.romanian_title }}
-      </div>
-    </div>
-  </a>
+  {% include cards.html %}
 {% endfor %}
