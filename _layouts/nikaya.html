@@ -13,7 +13,13 @@
 
     <main class='ui container'>
       <div class='ui segment'>
-        <h3>{{ page.title }}</h3>
+        <h3>
+          {% if page.parent_title %}
+          {{ page.parent_title }}
+            <i class='angle double right icon'></i>
+          {% endif %}
+          {{ page.title }}
+        </h3>
         <div class='ui cards'>
           {{ content }}
         </div>
