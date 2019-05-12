@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "ro" }}">
 
-  {%- include chapter-counter.html -%}
   {%- include head.html -%}
 
   <body>
@@ -10,15 +9,16 @@
 
     <main class='ui container'>
       <div class='ui segment'>
-        <h3>Khuddaka Nikaya</h3>
-        <div class='ui card'>
-          <div class='content' id='adi'>
-            <h3>Dhammapada</h3>
-          </div>
+        <h3>
+          Khuddaka Nikaya
+          <i class='angle double right icon'></i>
+          Dhammapada
+        </h3>
+        <div class='ui card' id='adi'>
           <div class='content'>
             <div class='ui small feed'>
               {% for item in site.kn_dhp %}
-                <span class='chapter'><a href='{{ item.url }}#majjhe'>{{ item.name }}. {{ item.title }}</a><br /></span>
+                <a href='{{ item.url }}#majjhe'>{{ forloop.index }}{{ item.name }}. {{ item.title }}</a><br />
               {% endfor %}
             </div>
           </div>
