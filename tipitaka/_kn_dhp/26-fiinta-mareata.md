@@ -253,7 +253,7 @@ Spun că oricine înțelege pe deplin\\
 trecerea și reapariția ființelor,\\
 oricine rămâne conștient,\\
 neatașat, treaz,\\
-dându-și mereu seama care este acțiunea corectă,\\
+conștient de acțiunea corectă,\\
 acela este o ființă măreață.
 
 420\\
