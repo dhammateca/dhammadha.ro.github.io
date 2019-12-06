@@ -45,9 +45,13 @@ exclude:
 
 collections_dir: tipitaka
 collections:
-  # kn_dhp:
-  #   output: true
-  #   permalink: /tipitaka/kn/dhammapada/:name
+  kn_dhp:
+    order:
+      - 00-copyright.md
+      - 00-introducere-prefata.md
+      - 00-prefata-traducatorului.md
+    output: true
+    permalink: /tipitaka/kn/dhammapada/:name
   mn:
     output: true
     permalink: /tipitaka/mn/:name

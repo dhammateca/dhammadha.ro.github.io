@@ -18,12 +18,19 @@
           <div class='content'>
             <h5>
               O Dhammapada pentru Contemplație<br>
-              Ajahn Munindo
+              de Ajahn Munindo
             </h5>
           </div>
           <div class='content'>
             <div class='ui small feed'>
-              {% for item in site.kn_dhp %}
+              {% for item in site.kn_dhp limit:3 %}
+                <a href='{{ item.url }}#majjhe'>{{ item.title }}</a><br />
+              {% endfor %}
+            </div>
+          </div>
+          <div class='content'>
+            <div class='ui small feed'>
+              {% for item in site.kn_dhp offset:3 %}
                 <a href='{{ item.url }}#majjhe'>{{ forloop.index }}{{ item.name }}. {{ item.title }}</a><br />
               {% endfor %}
             </div>

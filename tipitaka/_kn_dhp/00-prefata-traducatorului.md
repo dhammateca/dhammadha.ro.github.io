@@ -5,7 +5,7 @@ title: Prefața traducătorului
 
 #### Prefața traducătorului
 
-Am dat peste această Dhammapada, în interpretarea Venerabilului Ajahn Munindo, pe durata unei șederi la Mănăstirea Muttodaya. Am început să traduc câteva dintre versuri și, la întoarcere, le-am trimis prietenilor. Văzând interesul pe care l-au stârnit, am decis să o traduc. Totuși, e important de ținut în minte faptul că autorul consideră "O Dhammapada pentru Contemplație" mai degrabă o interpretare decât o traducere.
+Am dat peste această Dhammapada, în interpretarea Venerabilului Ajahn Munindo, pe durata unei șederi la Mănăstirea Muttodaya. Am început să traduc câteva dintre versuri și, la întoarcere, le-am trimis prietenilor. Văzând interesul pe care l-au stârnit, am decis să o traduc. Totuși, e important de ținut în minte faptul că autorul consideră „O Dhammapada pentru Contemplație” mai degrabă o interpretare decât o traducere.
 
 Am consultat și alte traduceri înainte de a începe, dar această interpretare s-a dovedit cea mai bogată în sensuri inteligibile pentru mine, având un spirit contemporan și dovedindu-se a fi și un manual de exerciții pentru cultivarea minții.
 
@@ -22,7 +22,8 @@ Am consultat traduceri alternative în limba engleză din limba pāli („The Dh
 Am respectat, în mare parte, organizarea pe rânduri a versetelor, existând bineînțeles abateri pentru a reda topica din limba română. De asemenea, pe alocuri, am izolat anumite sintagme pe rânduri pentru a evidenția accentul pus asupra conceptului său sau pentru a reda textul cu o
 muzicalitate specifică limbii noastre (versetul 4, de exemplu).
 
+Aceasta este prima ediție a traducerii, care se bazează pe ediția a cincea a originalului.
+
 Ne cerem iertare cititorului pentru sensurile de care l-am văduvit, iar pentru cele care sunt clare, îl încurajăm să le traducă mai departe, în inima sa.
 
 Mircea Mare, Diana D.
-www.dhammadha.ro

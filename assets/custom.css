@@ -13,6 +13,10 @@
   background-image: url(/assets/images/dust-scratches.png);
 }
 
+#adi.ui.card {
+  width: 370px;
+}
+
 .ui.menu {
   background-image: url(/assets/images/retina-wood.png);
 }
