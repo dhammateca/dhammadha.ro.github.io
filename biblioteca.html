@@ -1,0 +1,53 @@
+---
+layout: biblioteca
+title: Bibliotecă
+---
+
+<style>
+  .downloads {
+    display: inline-block;
+  }
+</style>
+
+<div class="ui container">
+  <div class="ui relaxed divided items">
+    {% for book in site.teka %}
+      <div class="item">
+        <div class="ui small image">
+          <img src="/assets/images/{{ book.url }}.jpg">
+        </div>
+        <div class="content">
+          <p class="header">
+            {{ book.title }}
+          </p>
+          <div class="meta">
+            <p>{{ book.author }}</p>
+          </div>
+          <div class="description">
+            {{ book.content }}
+          </div>
+          <div class="ui segment downloads">
+            {%- if book.epub -%}
+              <a href="assets{{ book.url }}/{{ book.epub }}" class="ui blue large label">
+                  <i class="icon cloud download"></i>
+                  .epub
+              </a>
+            {%- endif -%}
+            {%- if book.mobi -%}
+              <a href="assets{{ book.url }}/{{ book.mobi }}" class="ui yellow large label">
+                  <i class="icon cloud download"></i>
+                  .mobi
+              </a>
+            {%- endif -%}
+            {%- if book.mobi -%}
+              <a href="assets{{ book.url }}/{{ book.pdf }}" class="ui red large label">
+                  <i class="icon cloud download"></i>
+                  .pdf
+              </a>
+            {%- endif -%}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

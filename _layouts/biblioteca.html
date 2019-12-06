@@ -2,11 +2,6 @@
 <html lang="{{ page.lang | default: site.lang | default: "ro" }}">
 
   {%- include head.html -%}
-  <style>
-    .ui.cards {
-      justify-content: space-evenly;
-    }
-  </style>
   <body>
 
     {%- include header.html -%}
@@ -14,16 +9,10 @@
     <main class='ui container'>
       <div class='ui segment'>
         <h3>
-          {% if page.parent_title %}
-          {{ page.parent_title }}
-            <i class='angle double right icon'></i>
-          {% endif %}
           {{ page.title }}
         </h3>
-        <div class='ui divider'></div>
-        <div class='ui cards'>
+        <div class='ui divider inverted'></div>
           {{ content }}
-        </div>
       </div>
       <br>
     </main>

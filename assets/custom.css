@@ -5,6 +5,10 @@
   background-image: url(/assets/images/retina-wood.png);
 }
 
+#logo-container {
+  padding: 0;
+}
+
 .ui.segment {
   background-image: url(/assets/images/vintage-concrete.png);
 }
@@ -19,6 +23,10 @@
 
 .ui.menu {
   background-image: url(/assets/images/retina-wood.png);
+}
+
+.ui.menu .logo {
+  height: 90px;
 }
 
 .ui.accordion .title {

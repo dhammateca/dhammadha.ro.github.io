@@ -61,3 +61,5 @@ collections:
   kn_ud:
     output: true
     permalink: /tipitaka/kn/ud/:name
+  teka:
+    output: false
