@@ -7,13 +7,18 @@ title: Bibliotecă
   .downloads {
     display: inline-block;
   }
+
+  #book-cover {
+    max-height: 11.3em;
+    overflow: hidden;
+  }
 </style>
 
 <div class="ui container">
   <div class="ui relaxed divided items">
     {% for book in site.teka %}
       <div class="item">
-        <div class="ui small image">
+        <div class="ui small image" id="book-cover">
           <img src="/assets/images/{{ book.url }}.jpg">
         </div>
         <div class="content">
