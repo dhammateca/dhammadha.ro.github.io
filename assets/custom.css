@@ -17,6 +17,12 @@
   background-image: url(/assets/images/dust-scratches.png);
 }
 
+.card .header {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 #adi.ui.card {
   width: 370px;
 }
