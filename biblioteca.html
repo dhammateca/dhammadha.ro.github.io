@@ -50,6 +50,12 @@ title: Bibliotecă
                   .pdf
               </a>
             {%- endif -%}
+            {%- if book.html -%}
+              <a href="{{ book.html }}" class="ui blue large label">
+                  <i class="icon eye"></i>
+                  Citește online
+              </a>
+            {%- endif -%}
           </div>
         </div>
       </div>

@@ -64,5 +64,8 @@ collections:
   kn_ud:
     output: true
     permalink: /tipitaka/kn/ud/:name
+  book_basic_method:
+    output: true
+    permalink: /biblioteca/ajahn-brahm-tehnica-de-baza-a-meditatiei/:name
   teka:
     output: false
