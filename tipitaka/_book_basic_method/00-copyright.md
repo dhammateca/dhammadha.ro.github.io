@@ -5,7 +5,7 @@ title: Copyright
 
 ## Tehnica de bază a meditației
 
-### Titlul original: The Basic Method of Meditation\\
+### Titlul original: The Basic Method of Meditation
 [Copyright © Ajahn Brahm 2003](https://bswa.org/practices/basic-method-meditation-ajahn-brahm/)
 
 Traducerea și adaptarea:\\
