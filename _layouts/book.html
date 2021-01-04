@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "ro" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class='ui container'>
+      <div class='ui segment'>
+        <h3>
+          {{ page.main_title }}
+        </h3>
+        <div class='ui card' id='adi'>
+          <div class='content'>
+            <h5>
+              Tehnica de bază a meditației<br>
+              de Ajahn Brahm
+            </h5>
+          </div>
+          <div class='content'>
+            <div class='ui small feed'>
+              {% for item in site.book_basic_method %}
+                <a href='{{ item.url }}#majjhe'>{{ item.title }}</a><br />
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+        <div class='content' id='majjhe'>
+          {{ content }}
+        </div>
+
+        <a href='#adi' class='fluid ui primary basic button' style='margin-top: 1em;'>
+          Înapoi la cuprins
+        </a>
+
+        <div class='ui divider'></div>
+
+        <small>
+          <i class='large copyright icon'></i>
+          Traducere și adaptare din engleză a textului
+          «<a href='https://bswa.org/practices/basic-method-meditation-ajahn-brahm/' target='_blank' data-tooltip='© Ajahn Brahm, 2003'>
+            The Basic Method of Meditation
+          </a>»
+        </small>
+      </div>
+      <br>
+    </main>
+
+    <!-- {%- include footer.html -%} -->
+
+  </body>
+
+</html>

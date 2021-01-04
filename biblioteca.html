@@ -33,21 +33,27 @@ title: Bibliotecă
           </div>
           <div class="ui segment downloads">
             {%- if book.epub -%}
-              <a href="assets{{ book.url }}/{{ book.epub }}" class="ui blue large label">
+              <a href="{{ site.url }}/assets{{ book.url }}/{{ book.epub }}" class="ui blue large label">
                   <i class="icon cloud download"></i>
                   .epub
               </a>
             {%- endif -%}
             {%- if book.mobi -%}
-              <a href="assets{{ book.url }}/{{ book.mobi }}" class="ui yellow large label">
+              <a href="{{ site.url }}/assets{{ book.url }}/{{ book.mobi }}" class="ui yellow large label">
                   <i class="icon cloud download"></i>
                   .mobi
               </a>
             {%- endif -%}
             {%- if book.pdf -%}
-              <a href="assets{{ book.url }}/{{ book.pdf }}" class="ui red large label">
+              <a href="{{ site.url }}/assets{{ book.url }}/{{ book.pdf }}" class="ui red large label">
                   <i class="icon cloud download"></i>
                   .pdf
+              </a>
+            {%- endif -%}
+            {%- if book.html -%}
+              <a href="{{ site.url }}/biblioteca/{{ book.html }}" class="ui large label">
+                  <i class="icon eye"></i>
+                  Citește online
               </a>
             {%- endif -%}
           </div>

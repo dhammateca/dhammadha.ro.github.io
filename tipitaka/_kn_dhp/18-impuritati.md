@@ -100,7 +100,7 @@ un ins ar putea alege neajunsurile altora,\\
 în timp ce și le ascunde pe cele proprii;\\
 așa cum un vânător șiret\\
 s-ar putea ascunde de pradă.\\
- \\
+
 253\\
 Cei ce sunt mereu în căutarea defectelor altora –\\
 prejudecățile lor sporesc și se află departe de libertate.
