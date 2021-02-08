@@ -9,6 +9,11 @@
   padding: 0;
 }
 
+#cover-photo {
+  max-height: 11.3em;
+  overflow: hidden;
+}
+
 .ui.segment {
   background-image: url(/assets/images/vintage-concrete.png);
 }
