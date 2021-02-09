@@ -17,8 +17,8 @@ title: Meditație
             Meditație metta ghidată
           </div>
           <div class="description" style="position: relative;">
-            <div class="ui active centered inline loader" id="loader" style="position: absolute;"></div>
             <audio
+              style="width: 100%;"
               controls
               src='assets/audio/meditatie-metta--ayya-khema--parte-din-intreg.mp3'
               type='audio/mpeg'
@@ -32,7 +32,7 @@ title: Meditație
             </audio>
           </div>
           <p>
-            Meditație predată în <a href="https://dharmaseed.org/teacher/334/talk/7961/">limba engleză</a> la Buddha Dhamma Hermitage în Bundanoon, Australia în 1991.
+            Meditație predată în <a href="https://dharmaseed.org/teacher/334/talk/7961/" target='_blank'>limba engleză</a> la Buddha Dhamma Hermitage în Bundanoon, Australia în 1991.
           </p>
             <p>
               <i class='copyright icon small'></i>
@@ -42,11 +42,12 @@ title: Meditație
               </small>
               <br>
               <a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/'>
-                <img alt="Licenţa Creative Commons" style="border-width: 0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc/2.0/80x15.png" />
+                <img alt="Licenţa Creative Commons" style="border-width: 0; vertical-align: middle;"
+                src="https://i.creativecommons.org/l/by-nc/2.0/80x15.png" target='_blank' />
               </a>
               <i class='camera retro icon small'></i>
               <small>
-                <a href="https://search.creativecommons.org/photos/ea1ff0a3-661a-417d-a699-6aa3ac32a2b5">nyana_ponika</a>
+                <a href="https://search.creativecommons.org/photos/ea1ff0a3-661a-417d-a699-6aa3ac32a2b5" target='_blank'>nyana_ponika</a>
               </small>
             </p>
           </small>
@@ -54,13 +55,3 @@ title: Meditație
       </div>
   </div>
 </div>
-
-<script type='text/javascript'>
-  const audio = document.querySelector('audio');
-
-  audio.addEventListener('canplay', (event) => {
-    const loader = document.getElementById('loader');
-    loader.classList.remove('active');
-    loader.classList.add('disabled');
-  });
-</script>
