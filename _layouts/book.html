@@ -15,13 +15,13 @@
         <div class='ui card' id='adi'>
           <div class='content'>
             <h5>
-              Tehnica de bază a meditației<br>
-              de Ajahn Brahm
+              {{ page.title }}<br>
+              de {{ page.author }}
             </h5>
           </div>
           <div class='content'>
             <div class='ui small feed'>
-              {% for item in site.book_basic_method %}
+              {% for item in site[page.cname] %}
                 <a href='{{ item.url }}#majjhe'>{{ item.title }}</a><br />
               {% endfor %}
             </div>

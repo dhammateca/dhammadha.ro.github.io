@@ -67,5 +67,8 @@ collections:
   book_basic_method:
     output: true
     permalink: /biblioteca/ajahn-brahm-tehnica-de-baza-a-meditatiei/:name
+  book_divine_mantra:
+    output: true
+    permalink: /biblioteca/ajahn-lee-mantra-divina/:name
   teka:
     output: false

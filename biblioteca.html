@@ -11,7 +11,8 @@ title: Bibliotecă
 
 <div class="ui container">
   <div class="ui relaxed divided items">
-    {% for book in site.teka %}
+    {% assign ordered_books = site.teka | sort:"position" %}
+    {% for book in ordered_books %}
       <div class="item">
         <div class="ui small image" id="cover-photo">
           <img src="/assets/images/{{ book.url }}.jpg">
