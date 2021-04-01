@@ -1,5 +1,4 @@
 ---
-layout: chapter
 title: Copyright
 ---
 
@@ -9,8 +8,8 @@ Titlul original: The Divine Mantra
 [© Ṭhānissaro Bhikkhu (Geoffrey DeGraff) 2018](https://www.dhammatalks.org/)
 
 Traducerea: Mircea Mare  
-    Corectura: Diana D.  
-    [https://www.dhammadha.ro](www.dhammadha.ro)  
+Corectura: Diana D.  
+[https://www.dhammadha.ro](www.dhammadha.ro)  
 
 Această operă este pusă la dispoziţie sub licenţa  
 [Creative Commons Atribuire-Necomercial-FărăDerivate 4.0 Internațional](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.ro).

@@ -1,6 +1,5 @@
 ---
-layout: chapter
-title: Copyright
+title: Introducere
 ---
 
 # Introducere

@@ -1,6 +1,5 @@
 ---
-layout: chapter
-title: Copyright
+title: "Partea a treia: Meditație"
 ---
 
 # Partea a treia: meditație

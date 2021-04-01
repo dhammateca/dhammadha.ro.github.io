@@ -1,6 +1,5 @@
 ---
-layout: chapter
-title: Copyright
+title: Cele șase proprietăți
 ---
 
 Incantația pentru fiecare din proprietățile rămase e identică cu incantația pentru proprietatea vânt, mai precis, (1) fragmentul privind virtuțile lui Buddha, (2) fragmentul privind virtuțile Dhammei, (3) fragmentul privind virtuțile discipolilor din Saṅgha, urmate de fragmentul care începe cu „Dhātu-parisuddhānubhāvena”. Doar numele proprietății se schimbă:

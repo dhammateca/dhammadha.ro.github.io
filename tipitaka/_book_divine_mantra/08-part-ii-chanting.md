@@ -1,6 +1,5 @@
 ---
-layout: chapter
-title: Copyright
+title: "Partea a doua: Incantație"
 ---
 
 # Partea a doua: Incantație  
